@@ -3,9 +3,9 @@ title: "ANOVA report"
 author: ""
 date: "`r Sys.Date()`"
 output:
+  word_document: default
   html_document:
     code_folding: hide
-  word_document: default
 params:
   posthoc: none
 ---

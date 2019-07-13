@@ -1,0 +1,10 @@
+name: anova_report
+title:
+username:
+account: ssnhub
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1028757
+bundleId: 2227710
+url: https://ssnhub.shinyapps.io/anova_report/
+when: 1562994349.18509
